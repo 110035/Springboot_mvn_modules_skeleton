@@ -1,3 +1,9 @@
-SpringBoot help us create a web server quickly. 
-In this project, controller,service,dao, domain are designed as module. 
-Upper module depends on lower moduel. All modules inherit parent module so that can reduce the work to configure common packages.
+# 说明
+ 项目可以快速构建基于springboot的分模块maven项目。
+
+# 如果运行
+
+	根目录下mvn clean package
+    java -jar web/target/web.jar
+    
+## 配置都在application.properties里
