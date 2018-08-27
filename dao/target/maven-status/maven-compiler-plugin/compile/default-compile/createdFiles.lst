@@ -1,0 +1,6 @@
+com/aaron/dao/base/GenericDao.class
+com/aaron/dao/base/GenericDaoImpl.class
+com/aaron/dao/base/SqlParam.class
+com/aaron/dao/UserMapper.class
+com/aaron/dao/UserDao.class
+com/aaron/dao/UserDaoImpl.class

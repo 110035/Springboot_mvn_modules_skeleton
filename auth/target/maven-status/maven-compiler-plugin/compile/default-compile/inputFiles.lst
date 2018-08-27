@@ -1,0 +1,8 @@
+/Users/sunjianfei/work/java/SpringBoot-Modules/auth/src/main/java/com/aaron/auth/UserDetails.java
+/Users/sunjianfei/work/java/SpringBoot-Modules/auth/src/main/java/com/aaron/auth/impl/AuthProviderImpl.java
+/Users/sunjianfei/work/java/SpringBoot-Modules/auth/src/main/java/com/aaron/auth/AuthSuccHandler.java
+/Users/sunjianfei/work/java/SpringBoot-Modules/auth/src/main/java/com/aaron/auth/config/WebSecurityConfig.java
+/Users/sunjianfei/work/java/SpringBoot-Modules/auth/src/main/java/com/aaron/auth/LogoutSuccHandler.java
+/Users/sunjianfei/work/java/SpringBoot-Modules/auth/src/main/java/com/aaron/auth/AuthEntryPoint.java
+/Users/sunjianfei/work/java/SpringBoot-Modules/auth/src/main/java/com/aaron/auth/AuthFailHandler.java
+/Users/sunjianfei/work/java/SpringBoot-Modules/auth/src/main/java/com/aaron/auth/impl/UserDetailServiceImpl.java
